@@ -1,0 +1,20 @@
+{
+  "name": "studynodejs",
+  "version": "1.0.0",
+  "description": "下記サイトの実践<br> https://jsprimer.net/use-case/nodecli",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nkot117/studyNodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nkot117/studyNodejs/issues"
+  },
+  "homepage": "https://github.com/Nkot117/studyNodejs#readme"
+}
