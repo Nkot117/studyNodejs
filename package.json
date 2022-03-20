@@ -4,7 +4,7 @@
     "description": "下記サイトの実践<br> https://jsprimer.net/use-case/nodecli",
     "main": "main.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "mocha test/"
     },
     "repository": {
         "type": "git",
@@ -20,5 +20,8 @@
     "dependencies": {
         "commander": "5.0",
         "marked": "^4.0.10"
+    },
+    "devDependencies": {
+        "mocha": "^7.2.0"
     }
 }
